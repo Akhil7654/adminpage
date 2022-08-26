@@ -16,6 +16,7 @@ body{
 header{
     background-color:#d2d1e5; 
     text-align:center;
+    margin-top: -8px;   
     padding:5px 0px; 
   }
 
